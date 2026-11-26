@@ -1,0 +1,152 @@
+[
+  {
+    "id": "ext-order-a",
+    "navigationOk": true,
+    "chromiumError": ""
+  },
+  {
+    "id": "ext-order-b",
+    "navigationOk": true,
+    "chromiumError": ""
+  },
+  {
+    "id": "ext-order-c",
+    "navigationOk": true,
+    "chromiumError": ""
+  },
+  {
+    "id": "ext-order-d",
+    "navigationOk": true,
+    "chromiumError": ""
+  },
+  {
+    "id": "ext-order-e",
+    "navigationOk": true,
+    "chromiumError": ""
+  },
+  {
+    "id": "ca-no-certsign-a",
+    "navigationOk": true,
+    "chromiumError": ""
+  },
+  {
+    "id": "ca-no-certsign-b",
+    "navigationOk": true,
+    "chromiumError": ""
+  },
+  {
+    "id": "ca-no-certsign-c",
+    "navigationOk": true,
+    "chromiumError": ""
+  },
+  {
+    "id": "ca-no-certsign-d",
+    "navigationOk": true,
+    "chromiumError": ""
+  },
+  {
+    "id": "leaf-ku-unusable-a",
+    "navigationOk": false,
+    "chromiumError": "ERR_SSL_KEY_USAGE_INCOMPATIBLE"
+  },
+  {
+    "id": "leaf-ku-unusable-b",
+    "navigationOk": false,
+    "chromiumError": "ERR_SSL_KEY_USAGE_INCOMPATIBLE"
+  },
+  {
+    "id": "leaf-ku-unusable-c",
+    "navigationOk": false,
+    "chromiumError": "ERR_SSL_KEY_USAGE_INCOMPATIBLE"
+  },
+  {
+    "id": "leaf-ku-unusable-d",
+    "navigationOk": false,
+    "chromiumError": "ERR_SSL_KEY_USAGE_INCOMPATIBLE"
+  },
+  {
+    "id": "leaf-ku-unusable-e",
+    "navigationOk": false,
+    "chromiumError": "ERR_SSL_KEY_USAGE_INCOMPATIBLE"
+  },
+  {
+    "id": "ku-orphan-bit-a",
+    "navigationOk": true,
+    "chromiumError": ""
+  },
+  {
+    "id": "ku-orphan-bit-b",
+    "navigationOk": true,
+    "chromiumError": ""
+  },
+  {
+    "id": "ku-orphan-bit-c",
+    "navigationOk": true,
+    "chromiumError": ""
+  },
+  {
+    "id": "ku-orphan-bit-d",
+    "navigationOk": true,
+    "chromiumError": ""
+  },
+  {
+    "id": "ca-ku-nonminimal-a",
+    "navigationOk": true,
+    "chromiumError": ""
+  },
+  {
+    "id": "ca-ku-nonminimal-b",
+    "navigationOk": true,
+    "chromiumError": ""
+  },
+  {
+    "id": "ca-ku-nonminimal-c",
+    "navigationOk": true,
+    "chromiumError": ""
+  },
+  {
+    "id": "nc-dns-syntax-a",
+    "navigationOk": true,
+    "chromiumError": ""
+  },
+  {
+    "id": "nc-dns-syntax-b",
+    "navigationOk": true,
+    "chromiumError": ""
+  },
+  {
+    "id": "nc-dns-syntax-c",
+    "navigationOk": true,
+    "chromiumError": ""
+  },
+  {
+    "id": "nc-dns-syntax-d",
+    "navigationOk": true,
+    "chromiumError": ""
+  },
+  {
+    "id": "nc-dns-broad-a",
+    "navigationOk": true,
+    "chromiumError": ""
+  },
+  {
+    "id": "nc-dns-broad-b",
+    "navigationOk": true,
+    "chromiumError": ""
+  },
+  {
+    "id": "nc-dns-broad-c",
+    "navigationOk": true,
+    "chromiumError": ""
+  },
+  {
+    "id": "nc-dns-redundant-a",
+    "navigationOk": true,
+    "chromiumError": ""
+  },
+  {
+    "id": "nc-dns-redundant-b",
+    "navigationOk": true,
+    "chromiumError": ""
+  }
+]

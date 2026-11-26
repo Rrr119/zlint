@@ -1,0 +1,18 @@
+{
+  "uid": "38810",
+  "harness": "Codex CLI",
+  "snapshotUrl": "https://github.com/Rrr119/zlint/commit/298b39eb19b512d94bcd8c59b5120ceae0b1d3be",
+  "harnessVersion": "codex-cli 0.167.2",
+  "operatingSystem": "Ubuntu 26.04.1 LTS",
+  "operatingSystemCell": [
+    "MacOS/Linux"
+  ],
+  "outputDirectory": "/home/dev/feedback/uid38810",
+  "wslDistro": "Ubuntu-26.04",
+  "B": {
+    "success": false,
+    "canceled": true,
+    "error": "任务已取消",
+    "side": "B"
+  }
+}

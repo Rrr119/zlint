@@ -1,0 +1,17 @@
+{
+  "root": "/home/dev/feedback/uid38810",
+  "B": "/home/dev/feedback/uid38810",
+  "sha": "298b39eb19b512d94bcd8c59b5120ceae0b1d3be",
+  "wslDistro": "Ubuntu-26.04",
+  "source": {
+    "owner": "zmap",
+    "repo": "zlint",
+    "sha": "298b39eb19b512d94bcd8c59b5120ceae0b1d3be"
+  },
+  "fork": {
+    "owner": "Rrr119",
+    "repo": "zlint",
+    "cloneUrl": "https://github.com/Rrr119/zlint.git"
+  },
+  "at": "2026-11-26T02:33:47.240Z"
+}
